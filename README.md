@@ -13,7 +13,7 @@ Soohwan Jeon
 
 ## Test Results
 
-![Test Results](Screenshot 2026-05-18 182917.png)
+![Test Results](Screenshot.png)
 
 
 
